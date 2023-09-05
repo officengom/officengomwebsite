@@ -35,7 +35,7 @@ body {
   z-index: -1;
 }
 
-#2Dscene {
+#dtscene {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
