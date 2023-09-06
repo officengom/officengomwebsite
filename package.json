@@ -37,6 +37,7 @@
     "sass": "^1.66.1",
     "sass-loader": "^12.6.0",
     "style-loader": "^3.3.3",
+    "vite": "^4.4.9",
     "webpack": "^5.88.2",
     "webpack-cli": "^4.10.0"
   }
