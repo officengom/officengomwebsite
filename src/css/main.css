@@ -70,17 +70,35 @@ a{
 }
 
 #intro{
-  padding-top: 5%; 
-  padding-right: 10%; 
+  padding-top: 0%; 
+  width: 45%; 
   color: white; 
   font-size: 40px;
   font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #descr{
+  padding-top: 15%;
+  text-align: center;
+  padding-left: 20% !important;
+  padding-right: 20% !important; 
   font-size: 20px;
-  padding-right: 30%; 
+  padding-right: 30%;
+  font-family: Arial, Helvetica, sans-serif; 
+  color: white;
 
+}
+
+#txt {
+  text-align: left;
+}
+
+#consultancy{
+  width: 50vw; 
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
 }
 
 #middle{
