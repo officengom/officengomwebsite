@@ -95,6 +95,7 @@ a{
 }
 
 #consultancy{
+  padding-top: 10%; 
   width: 50vw; 
   text-align: right;
   font-family: Arial, Helvetica, sans-serif;
