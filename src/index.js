@@ -1,5 +1,3 @@
-//import 'src\css\main.scss';
-//import 'src\js\uicontrols.js';
-import './js/script.js';
-
-console.log("message from the script file");
+import './css/main.scss';
+//import './js/uicontrols';
+//import './js/script';
